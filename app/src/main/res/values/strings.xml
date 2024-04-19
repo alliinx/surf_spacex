@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">surf_dz_layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch_text">LAUNCH</string>
+    <string name="starlink_2_text">Starlink 2</string>
+    <string name="ccaes_slc_40_text">CCAES SLC 40</string>
+    <string name="_16_10_2016_text">16-10-2016</string>
+    <string name="launch_date_text">LAUNCH DATE</string>
+    <string name="thu_oct_17_5_30_00_2019_text">Thu Oct 17 5:30:00 2019</string>
+    <string name="launch_site_text">LAUNCH SITE</string>
+    <string name="cape_canaveral_air_force_station_space_launch_complex_40_text">Cape Canaveral Air Force Station Space Launch Complex 40</string>
+    <string name="_5_hrs_30mins_more_text">5 Hrs 30mins more...</string>
+    <string name="count_down_text">COUNT DOWN</string>
+    <string name="rocket_text">ROCKET</string>
+    <string name="upcoming_text">Upcoming</string>
+    <string name="launches_text">Launches</string>
+    <string name="rockets_text">Rockets</string>
+    <string name="spacex_text">SpaceX</string>
+</resources>
